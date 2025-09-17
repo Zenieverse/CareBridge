@@ -2,6 +2,8 @@
 CareBridge connects neighbors, volunteers, and small nonprofits to deliver time-sensitive help (groceries, meds, check-ins, mental-health peer support) with an easy volunteer matching flow and built-in sponsor/donation options powered by RevenueCat.
 
 
+
+CareBridge is a lightweight hyperlocal platform that connects neighbors and volunteers for real, immediate help — built for safe, practical action. Its sustainable model mixes low-cost supporter subscriptions and micro-donations (web checkout) managed through RevenueCat so the team can focus on growth and impact rather than billing plumbing. Ship in the Shipaton window, and you’ll satisfy the platform rules while delivering measurable, fundable social value.
 CareBridge connects neighbors, volunteers, and small nonprofits to deliver time-sensitive help (groceries, meds, check-ins, mental-health peer support) with an easy volunteer matching flow and built-in sponsor/donation options powered by RevenueCat.
 Why this app, now? Post-COVID the world still faces local social fractures: loneliness, fragile community support, and distributed resource gaps. Hyperlocal, trust-centric social apps and mental-health focused solutions have traction in 2024–2025 — and monetization via subscriptions + web donations is now flexible thanks to modern platforms like RevenueCat and partners (so you can both serve a social cause and sustain the app).
 
