@@ -3,6 +3,8 @@ CareBridge connects neighbors, volunteers, and small nonprofits to deliver time-
 
 https://g.co/gemini/share/ae261ea99b84
 
+https://poe.com/CareBridgeDemo
+
 https://vimeo.com/1120350552
 
 CareBridge is a lightweight hyperlocal platform that connects neighbors and volunteers for real, immediate help — built for safe, practical action. Its sustainable model mixes low-cost supporter subscriptions and micro-donations (web checkout) managed through RevenueCat so the team can focus on growth and impact rather than billing plumbing. Ship in the Shipaton window, and you’ll satisfy the platform rules while delivering measurable, fundable social value.
